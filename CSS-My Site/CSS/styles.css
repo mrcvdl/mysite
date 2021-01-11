@@ -1,0 +1,166 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514e;
+}
+
+h1 {
+  margin: 50px auto 0px auto;
+  font-size: 5.635rem;
+  line-height: .5;
+  font-family: 'Sacramento', cursive;
+  color: #df7861;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #df7861;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #7c9473;
+}
+
+a {
+  color: #ecb390;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #ffeebb;
+}
+
+p {
+  font-weight: bold;
+  line-height: 2;
+}
+
+hr {
+  border-top: 10px dotted #ecb390;
+  width: 7%;
+  margin: 75px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.profile {
+  margin: 50px auto 0 auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.profile-image {
+  width: 15%;
+}
+
+.heart-failure-image {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.sushi {
+  width: 25%;
+  float: right;
+  margin-right: 20px;
+}
+
+.contact-me {
+  width: 100%;
+  margin: 50px auto 35px auto;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.contact-text {
+  width: 30%;
+  margin: 50px auto 40px auto;
+  font-weight: normal;
+  line-height: 1.5;
+}
+
+.top-container {
+  background-color: #fff5c0;
+  color: #df7861;
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle-container {
+  background-color: #f8f1f1;
+  margin: 0;
+  position: relative;
+  padding: 50px 0 50px 0;
+}
+
+.bottom-container {
+  background-color: #df7861;
+  padding: 40px 0 20px;
+  height: 80px;
+  padding-top: 30px;
+}
+
+.nurse {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  padding: 20px 0;
+  font-size: 10px;
+}
+
+.btn {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #ecb390;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 50;
+  padding: 10px;
+  background-color: #DF7861;
+  border: solid #ecb390 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #DF7861;
+  border: solid #DF786 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffeebb;
+  text-decoration: none;
+}
